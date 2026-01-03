@@ -1,7 +1,8 @@
 
 <template>
 <Map />
-    
+    <Test />
+  <Demo />
 </template>
 
 <script setup>
